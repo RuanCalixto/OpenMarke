@@ -1,0 +1,1 @@
+var jogo = (coisa , casa)=>console.log("bom dia pessoal")
